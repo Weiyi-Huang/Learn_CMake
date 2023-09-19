@@ -1,0 +1,1 @@
+Mix static and shared.
